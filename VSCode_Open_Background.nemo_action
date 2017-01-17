@@ -1,0 +1,6 @@
+[Nemo Action]
+Active=true
+Name=Open With Visual Studio Code
+Exec=code %P
+Selection=none
+Extensions=dir
